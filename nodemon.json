@@ -1,0 +1,5 @@
+{
+    "watch": ["index.js", "routes/*.js", "models/*.js", "controllers/*.js"],
+    "ext": "js",
+    "exec": "node ./index.js"
+}
